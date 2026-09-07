@@ -1,0 +1,7 @@
+{
+  "name": "mlrsGRAM",
+  "description": "Resu Middle shares token",
+  "image": "https://raw.githubusercontent.com/resufi/resu-token-meta/refs/heads/main/resu-jetton-icon.png",
+  "symbol": "mlrsGRAM",
+  "decimals": 9
+}
