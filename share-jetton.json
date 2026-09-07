@@ -1,7 +1,7 @@
 {
   "name": "reGRAM",
   "description": "Resu shares token",
-  "image": "https://raw.githubusercontent.com/fivestarsfi/syde-meta/refs/heads/main/btc.png",
+  "image": "https://raw.githubusercontent.com/resufi/resu-token-meta/refs/heads/main/resu-jetton-icon.png",
   "symbol": "reGRAM",
   "decimals": 9
 }
