@@ -1,0 +1,7 @@
+{
+  "name": "reGRAM",
+  "description": "Resu shares token",
+  "image": "https://raw.githubusercontent.com/fivestarsfi/syde-meta/refs/heads/main/btc.png",
+  "symbol": "reGRAM",
+  "decimals": 9
+}
