@@ -1,7 +1,7 @@
 {
-  "name": "jrrsGRAM",
-  "description": "Resu tsUSDe Junior shares token",
+  "name": "mlrsGRAM",
+  "description": "Resu tsUSDe Middle shares token",
   "image": "https://raw.githubusercontent.com/resufi/resu-token-meta/refs/heads/main/resu-jetton-icon.png",
-  "symbol": "jrrsGRAM",
+  "symbol": "mlrsGRAM",
   "decimals": 6
 }
