@@ -1,0 +1,7 @@
+{
+  "name": "jrHLP",
+  "description": "Resu HLP Junior shares token",
+  "image": "https://raw.githubusercontent.com/resufi/resu-token-meta/refs/heads/main/resu-jetton-icon.png",
+  "symbol": "jrHLP",
+  "decimals": 6
+}
