@@ -1,0 +1,7 @@
+{
+  "name": "srETH",
+  "description": "Resu ETH Senior tranche — buffered note share",
+  "image": "https://raw.githubusercontent.com/resufi/resu-token-meta/refs/heads/main/resu-jetton-icon.png",
+  "symbol": "srETH",
+  "decimals": 18
+}

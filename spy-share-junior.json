@@ -1,0 +1,7 @@
+{
+  "name": "jrSPY",
+  "description": "Resu S&P 500 Buffer tranche — buffered note share",
+  "image": "https://raw.githubusercontent.com/resufi/resu-token-meta/refs/heads/main/white-resu-token-meta.png",
+  "symbol": "jrSPY",
+  "decimals": 18
+}
