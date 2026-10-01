@@ -1,0 +1,7 @@
+{
+  "name": "jrBTC",
+  "description": "Resu Bitcoin Junior tranche — buffered note share (cbBTC on Base)",
+  "image": "https://raw.githubusercontent.com/resufi/resu-token-meta/refs/heads/main/resu-jetton-icon.png",
+  "symbol": "jrBTC",
+  "decimals": 18
+}
