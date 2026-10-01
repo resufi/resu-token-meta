@@ -1,7 +1,7 @@
 {
   "name": "jrMSFT",
   "description": "Resu MSFT Junior tranche — buffered note share (MSFTc on Base)",
-  "image": "https://raw.githubusercontent.com/resufi/resu-token-meta/refs/heads/main/resu-jetton-icon.png",
+  "image": "https://raw.githubusercontent.com/resufi/resu-token-meta/refs/heads/main/white-resu-token-meta.jpg",
   "symbol": "jrMSFT",
   "decimals": 18
 }

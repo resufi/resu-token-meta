@@ -1,0 +1,7 @@
+{
+  "name": "Resu Conservative MSFT",
+  "description": "Resu one-click risk profile over MSFT — mostly Shield (10/20/70 Buffer/Balance/Shield)",
+  "image": "https://raw.githubusercontent.com/resufi/resu-token-meta/refs/heads/main/white-resu-token-meta.jpg",
+  "symbol": "rcMSFT",
+  "decimals": 18
+}

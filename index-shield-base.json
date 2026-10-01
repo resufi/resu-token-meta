@@ -1,0 +1,7 @@
+{
+  "name": "Resu Shield Index",
+  "description": "Resu diversified Shield (senior) index across MSFT and NVDA on Base — protected yield spread across names",
+  "image": "https://raw.githubusercontent.com/resufi/resu-token-meta/refs/heads/main/white-resu-token-meta.jpg",
+  "symbol": "rSHLD",
+  "decimals": 18
+}

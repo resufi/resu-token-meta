@@ -1,0 +1,7 @@
+{
+  "name": "Resu Aggressive NVDA",
+  "description": "Resu one-click risk profile over NVDA — mostly Buffer (50/30/20 Buffer/Balance/Shield)",
+  "image": "https://raw.githubusercontent.com/resufi/resu-token-meta/refs/heads/main/white-resu-token-meta.jpg",
+  "symbol": "raNVDA",
+  "decimals": 18
+}

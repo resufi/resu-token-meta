@@ -1,0 +1,7 @@
+{
+  "name": "Resu Aggressive MSFT",
+  "description": "Resu one-click risk profile over MSFT — mostly Buffer (50/30/20 Buffer/Balance/Shield)",
+  "image": "https://raw.githubusercontent.com/resufi/resu-token-meta/refs/heads/main/white-resu-token-meta.jpg",
+  "symbol": "raMSFT",
+  "decimals": 18
+}
