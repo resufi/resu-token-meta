@@ -1,0 +1,7 @@
+{
+  "name": "sraprMON",
+  "description": "Resu aprMON Senior tranche — buffered note share (aprMON, staked MON on Monad)",
+  "image": "https://raw.githubusercontent.com/resufi/resu-token-meta/refs/heads/main/white-resu-token-meta.jpg",
+  "symbol": "sraprMON",
+  "decimals": 18
+}
